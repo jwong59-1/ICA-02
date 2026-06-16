@@ -1,0 +1,119 @@
+{
+  "Your Cell": [
+    [
+      "Pick the Cell Lock",
+      1
+    ],
+    [
+      "Bribe the Night Guard",
+      10
+    ],
+    [
+      "Fake a Medical Emergency",
+      4
+    ],
+    [
+      "Assemble a Contraband Drill",
+      7
+    ]
+  ],
+  "Pick the Cell Lock": [
+    [
+      "Steal a Uniform",
+      3
+    ]
+  ],
+  "Fake a Medical Emergency": [
+    [
+      "Hijack the Supply Truck",
+      8
+    ]
+  ],
+  "Assemble a Contraband Drill": [
+    [
+      "Tunnel Under the Wall",
+      6
+    ]
+  ],
+  "Bribe the Night Guard": [
+    [
+      "Disable Lights",
+      5
+    ],
+    [
+      "Steal a Uniform",
+      3
+    ],
+    [
+      "Hijack the Supply Truck",
+      8
+    ]
+  ],
+  "Steal a Uniform": [
+    [
+      "Forge Staff Credentials",
+      2
+    ],
+    [
+      "Swipe Guard ID Card",
+      2
+    ],
+    [
+      "Bribe the Gate Guard",
+      8
+    ]
+  ],
+  "Disable Lights": [
+    [
+      "Scale the Wall",
+      5
+    ],
+    [
+      "Cut the Perimeter Fence",
+      3
+    ]
+  ],
+  "Tunnel Under the Wall": [
+    [
+      "Freedom",
+      4
+    ]
+  ],
+  "Forge Staff Credentials": [
+    [
+      "Bribe the Gate Guard",
+      8
+    ]
+  ],
+  "Swipe Guard ID Card": [
+    [
+      "Cut the Perimeter Fence",
+      3
+    ]
+  ],
+  "Hijack the Supply Truck": [
+    [
+      "Freedom",
+      6
+    ]
+  ],
+  "Scale the Wall": [
+    [
+      "Freedom",
+      5
+    ]
+  ],
+  "Cut the Perimeter Fence": [
+    [
+      "Freedom",
+      3
+    ]
+  ],
+  "Bribe the Gate Guard": [
+    [
+      "Freedom",
+      7
+    ]
+  ],
+  "Freedom": []
+}
